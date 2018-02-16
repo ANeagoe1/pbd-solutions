@@ -1,0 +1,42 @@
+public clas One {
+  public static void main(String [] args) {
+    System.out.println("Hello");
+    System.out.println("World");
+  }
+}
+
+Output: 
+Hello 
+World
+
+
+#2
+System.out.println("2 + 3");
+
+output: 2 + 3
+
+#3
+System.out.println(4+2);
+
+output:
+6
+
+
+#4
+//System.out.print("Hello")
+System.out.println("World")
+
+output:
+World
+
+#5
+System.out.print("Hello"); System.out.println("World")
+
+output:
+HelloWorld NEVER DO THIS
+
+#6
+System.out.println("Hello"); //System.out.println("World")
+
+output:
+Hello
